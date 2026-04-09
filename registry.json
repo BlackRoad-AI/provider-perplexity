@@ -1,0 +1,17 @@
+{
+  "provider_id": "perplexity",
+  "name": "Perplexity AI",
+  "primary_model": "sonar",
+  "models": [
+    "llama-3.1-sonar-large-128k-online",
+    "llama-3.1-sonar-small"
+  ],
+  "active": true,
+  "in_use_by": [],
+  "usage_stats": {
+    "requests": 0,
+    "tokens": 0,
+    "errors": 0
+  },
+  "created_at": "2026-04-09T04:38:49.633756+00:00"
+}
